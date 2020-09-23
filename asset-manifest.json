@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/nemesis/static/css/main.2c6551bc.chunk.css",
+    "main.js": "/nemesis/static/js/main.4f7976d1.chunk.js",
+    "main.js.map": "/nemesis/static/js/main.4f7976d1.chunk.js.map",
+    "runtime-main.js": "/nemesis/static/js/runtime-main.0f1ea70d.js",
+    "runtime-main.js.map": "/nemesis/static/js/runtime-main.0f1ea70d.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/nemesis/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.07afca60.chunk.js": "/nemesis/static/js/2.07afca60.chunk.js",
+    "static/js/2.07afca60.chunk.js.map": "/nemesis/static/js/2.07afca60.chunk.js.map",
+    "index.html": "/nemesis/index.html",
+    "precache-manifest.212bbc0d7cfb5f28e4722942b53ce766.js": "/nemesis/precache-manifest.212bbc0d7cfb5f28e4722942b53ce766.js",
+    "service-worker.js": "/nemesis/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/nemesis/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.2c6551bc.chunk.css.map": "/nemesis/static/css/main.2c6551bc.chunk.css.map",
+    "static/js/2.07afca60.chunk.js.LICENSE.txt": "/nemesis/static/js/2.07afca60.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0f1ea70d.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.07afca60.chunk.js",
+    "static/css/main.2c6551bc.chunk.css",
+    "static/js/main.4f7976d1.chunk.js"
+  ]
+}
